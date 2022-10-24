@@ -11,4 +11,4 @@ def orden(e):
     for h in e:
         print("->", h)
 
-orden(lista)
+orden(lista) # Preuntar por las dudas...
